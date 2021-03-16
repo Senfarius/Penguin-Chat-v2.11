@@ -1,0 +1,30 @@
+1|3|1|J|B|Bluetie
+1|3|1|A|K|
+1|3|1|A|K|ho ho ho
+0|1|1|A|H|Indeed.
+1
+1|3|1|B|D|Bluetie
+1|3|7|D|K|
+1|3|7|D|K|CHATTERBOT
+0|1|1|L|B|Hi there
+1|3|8|D|K|Hi
+0|1|1|L|I|Heyy
+1
+1|3|1|O|E|bluetie
+1|3|6|F|9|
+1
+1|3|1|O|D|Bluetie
+1|3|3|9|I|
+1|3|8|9|I|hi
+0|1|1|G|D|Hello
+1|3|7|J|J|
+1|3|3|C|H|
+1|3|7|B|I|
+2|1|1|M|A|Rock
+1|3|7|M|H|
+2|1|6|F|I|
+2|1|8|F|I|Hello
+0|1|1|H|H|Heyy
+1
+2|1|7|C|8|
+2

@@ -1,0 +1,254 @@
+1|1|1|F|B|Rock
+1|1|8|F|B|/a2LK
+0|1|1|J|K|1|8|F|B
+1|1|5|E|J|
+0|1|1|J|K|1|5|E|J
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+0|1|1|J|K|
+2|2|1|L|C|Guest
+2|2|1|L|C|/a2IM
+2|2|7|7|F|
+2|2|8|7|F|/a2KI
+2
+1
+1|3|1|B|B|Bluetie
+1|3|8|B|B|/a2LK
+1|3|8|B|B|/a2JL
+1
+1|2|1|H|D|Guest
+1
+1|2|1|B|A|Guest
+1|2|8|J|J|
+1|2|1|J|J|/a2IK
+1
+1|2|1|B|B|Guest
+1|2|L|B|H|
+1|2|2|C|L|
+1|2|4|A|J|
+1|2|8|A|J|/j5
+1|2|L|A|J|
+1|2|L|D|K|
+1|2|8|9|H|/j0
+1|2|H|9|H|
+1|2|H|9|H|/e11
+1|2|H|D|J|
+1
+1|3|1|J|D|Bluetie
+1|3|1|J|D|/a2KI
+1|3|5|A|J|
+1
+1|3|1|C|E|Bluetie
+0|1|1|D|I|Hello
+1|3|1|C|E|hi jedwuhe
+0|1|1|I|J|Hi
+0|1|1|L|K|Happy holidays!
+0|1|1|J|J|Hello
+0|1|1|L|F|Hi there, !
+0|1|1|L|K|Happy holidays!
+0|1|1|C|I|Heyy
+1|3|8|C|E|Hi ihfieh
+0|1|1|L|K|Happy holidays!
+1|3|8|C|E|erwfeffeefr
+0|1|1||K|Heyy
+0|1|1||F|Heyy
+1
+1|1|1|O|E|Rock
+1|1|3|C|I|
+0|1|1|J|F|Hello
+1|1|3|A|7|
+0|1|1|A|K|Hey!
+1|1|3|6|E|
+0|1|1|I|K|Hi there, !
+0|1|1|L|K|Helloooo
+0|1|1|I|J|Hi
+0|1|1|I|J|Hi
+0|1|1|A|K|Hey!
+0|1|1|I|K|Hi there, !
+0|1|1|A|K|Hey!
+0|1|1|C|F|Hello there
+0|1|1|C|H|Heyy
+1
+1|1|1|M|B|rock
+1|1|6|A|H|
+0|1|1|L|H|Hi there, !
+0|1|1|G|E|Hi there, !
+0|1|1|I|J|Hi
+0|1|1|A|K|Hey!
+0|1|1|A|K|Hey!
+0|1|1|L||Hello
+0|1|1|B|I|Hello
+0|1|1|A|K|Hey!
+0|1|1|K|G|Hello
+1
+1|2|1|E|D|Guest
+1|2|8|9|I|
+1|2|L|9|I|
+0|1|1|L|K|Helloooo
+0|1|1|L|K|Happy holidays!
+1
+1|2|1|F|E|Guest
+1
+1|1|1|J|D|Rock
+1|1|1|D|I|Hello world
+1
+1|1|1|H|B|rock
+1|1|8|D|K|
+1|1|3|D|K|Hi
+1|1|6|F|G|
+1|1|2|F|G|Hello
+1
+1|3|1|C|C|Bluetie
+1|3|7|D|H|Hello
+0|1|1|B|L|Hello
+1
+1|3|1|F|D|Bluetie
+1|3|1|E|J|
+1|3|8|E|J|Hello
+0|1|1|I|G|Hello there
+1
+1|3|1|A|D|Bluetie
+1|3|8|G|I|Hello
+0|1|1|C|F|Hi there!
+1
+1|1|1|B|D|Rock
+1|1|8|H|K|hi
+1|1|1|D|J|
+1|1|7|D|J|Helklo?
+1|1|8|D|J|weewfwew
+1
+1|3|1|N|C|Bluetie
+1|3|2|C|H|Hello
+0|1|1|L|K|Happy holidays!
+1
+1|3|1|D|B|Bluetie
+1|3|8|G|I|hi
+1
+1|3|1|C|A|Bluetie
+1|3|5|F|I|Hi
+2|2|1|K|C|Guest
+2|2|2|C|J|/j9
+2|2|4|8|C|/j6
+2|2|7|8|C|/a2ID
+2
+1
+1|3|1|L|E|Bluetie
+1|3|2|D|K|gttg
+1|3|8|D|K|Test!
+1|3|7|D|K|Hello world!
+1
+1|2|1|J|D|Guest
+1|2|7|A|J|/a2LJ
+1
+1|2|1|K|D|Guest
+1|2|6|9|I|
+1
+1|3|1|E|C|Bluetie
+1|3|3|5|I|
+1
+1|1|1|I|C|frfr4e
+1|1|7|B|I|
+1|1|7|B|I|/a2HK
+1|1|7|B|I|ffff
+1|1|5|D|K|
+1
+1|2|1|L|F|Guest
+1|2|6|E|L|
+1
+1|1|1|S|D|Rock
+1|1|2|A|N|
+1
+1|1|1|N|H|Rock
+1|1|8|8|J|
+1|1|8|8|J|Hello
+0|1|1|B|B|Heyy
+1|1|3|J|O|
+1|1|3|J|O|Happy bannana
+1|1|1|E|M|
+1|1|1|E|M|aaaaaaaaaaaaaaaaaaaaaaaa
+1|1|1|J|O|
+1|1|1|J|O|/j0
+1|1|1|J|O|CHATTERBOT
+0|1|1|L|I|Heyy
+1|1|2|J|O|Happy holidays!
+1|1|8|D|P|
+1|1|8|D|P|Ayyye
+1|1|7|O|M|
+1|1|7|O|M|aa
+1|1|3|8|N|
+1
+1|1|4|a|4|Rock
+1
+1|1|1|S|G|Rock
+1|1|7|8|O|
+0|1|1|L|K|/e7
+1|1|7|8|O|Hello, Chatterbot.
+0|1|1|L|K|/e7
+0|1|1|L|K|I have a joke... oh wait, I forgot!
+1|1|7|8|O|Chatterbot
+1|1|5|B|G|
+0|1|1|L|K|I have a joke... oh wait, I forgot!
+0|1|1|I|J|Oh man, you scared me!
+1|1|1|6|F|
+0|1|1|A|K|What's up?
+0|1|1|A|JHappy holidays.
+0|1|1|L|K|I have a joke... oh wait, I forgot!
+0|1|1|I||Ho ho ho.
+0|1|1|L|K|I have a joke... oh wait, I forgot!
+0|1|1|E|I|Why, hello there!
+0|1|1|L|K|I have a joke... oh wait, I forgot!
+0|1|1|E|I|Ho ho ho.
+1|1|8|6|F|Hi
+0|1|1|B|GHappy holidays.
+0|1|1|B|DHappy holidays.
+1|1|8|6|F|What's up?
+1|1|8|6|F|mwnbdwsa
+1|1|7|I|G|
+0|1|1|H|D|Ho ho ho.
+0|1|1|B|D|Why, hello there!
+0|1|1|H|I|Why, hello there!
+0|1|1|D|K|What? I didn't hear you.
+1|1|8|M|M|
+0|1|1|C|BHappy holidays.
+0|1|1|L|K|/e7
+0|1|1|B|J|What? I didn't hear you.
+0|1|1|I|J|Oh man, you scared me!
+0|1|1|A|K|What's up?
+0|1|1|G|E|Ho ho ho.
+1|1|3|B|L|
+1|1|4|H|M|
+1|1|4|C|G|aaaa
+0|1|1|L|K|I have a joke... oh wait, I forgot!
+1
+1|3|1|R|H|Bluetie
+1|3|6|D|P|
+0|1|1|L|G|Ho ho ho.
+0|1|1|I|J|Oh man, you scared me!
+0|1|1|J|L|What? I didn't hear you.
+0|1|1||K|Ho ho ho.
+0|1|1|L|J|What? I didn't hear you.
+0|1|1|A|K|What's up?
+1|3|7|L|P|
+0|1|1||EHappy holidays.
+0|1|1|F|GHappy holidays.
+0|1|1|L|K|Can you talk to me?
+0|1|1|L|K|/e7
+0|1|1|I|J|Oh man, you scared me!
+0|1|1|E|L|What? I didn't hear you.
+0|1|1|L|K|Can you talk to me?
+0|1|1|L|K|Can you talk to me?
+0|1|1|C|H|Ho ho ho.
+0|1|1|J|BHappy holidays.
+0|1|1|L|K|Do I talk too much?
+0|1|1|H|FHappy holidays.
